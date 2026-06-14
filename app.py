@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 import pandas as pd
 import numpy as np
-
 # 1. Config and layout setting
 st.set_page_config(
     page_title="SmartHome AI Predictor",
